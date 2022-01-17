@@ -1,3 +1,3 @@
-# Maquettage-B1
+# Maquettage
 
 Charte graphique, site web - Maquettage avec Zoning et Wireframes
